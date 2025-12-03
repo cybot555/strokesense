@@ -264,6 +264,18 @@ h3 {
     background-color: #6b4a34;
 }
 
+.screen-header .dot:nth-child(1) {
+    background-color: #ff5f56; /* red */
+}
+
+.screen-header .dot:nth-child(2) {
+    background-color: #ffbd2e; /* yellow */
+}
+
+.screen-header .dot:nth-child(3) {
+    background-color: #27c93f; /* green */
+}
+
 .screen-main {
     background: radial-gradient(circle at 35% 20%, #4a2f20, #1f120c);
     border-radius: 1rem;
